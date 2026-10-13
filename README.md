@@ -2,7 +2,7 @@
 
 サイトマイスター **LINE更新依頼 受付フロー** の動くモック（検討用）。
 
-- 公開先: https://dat0925.github.io/line-koushin-mock/
+- 公開先: https://if-hp-mock.github.io/line-koushin-mock-/
 - 閲覧には **PINコード** が必要（社内で共有）
 - 画面の会社名・連絡先はすべて **架空のサンプル**。実際の送信は行わない
 
